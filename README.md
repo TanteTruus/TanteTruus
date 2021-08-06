@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanteTruus
-- 👀 I’m interested in electronica, I love Animals and gaming...
+- 👀 I’m interested in electronica, I love Animals and gaming, photography
 - 🌱 I’m currently learning ..programeren Python and other
-- 💞️ I’m looking to collaborate on Python and micro Python arduine raspberry Pi and the pico...
+- 💞️ I’m looking to collaborate on Python and micro Python arduino Raspberry Pi and the Pico etc.
 - 📫 How to reach me email: a.doorman@kpnmail.nl or via Whatsapp or via github
 
 <!---
